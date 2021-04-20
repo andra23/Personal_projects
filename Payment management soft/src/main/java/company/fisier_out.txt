@@ -1,0 +1,10 @@
+Average payment amount: 5734.360
+Small payments: 2
+Big payments: 1
+Payments by minors: 0
+Total amount capital city (BU): 0
+Foreigners: 0
+Errors: 
+       Line: 4
+       Type: 0
+
